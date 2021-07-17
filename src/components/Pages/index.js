@@ -1,5 +1,3 @@
-import { from } from "webpack-sources/lib/CompatSource";
-
 export {default as AboutMe} from "./components/AboutMe";
 export {default as Contact} from "./components/Contact";
 export {default as LandingPage} from "./components/LandingPage";
