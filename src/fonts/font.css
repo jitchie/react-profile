@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'BlanchSage';
+    src: url('/src/fonts/blanchsage.woff2') format('woff2'), /* Modern Browsers */
+         url('/src/fonts/blanchsage.otf') format('opentype'); /* Safari, Android, iOS */
+            font-style: normal;
+            font-weight: bold ;
+            text-rendering: optimizeLegibility;
+}
